@@ -30,7 +30,7 @@ const About = () => {
               idx={15}
             />
           </h1>
-          <div class="paragraph">
+          <div className="paragraph">
 
             <p>
             I'm a fourth year student at the University of British Columbia, where I am majoring in Computer Science,
@@ -43,8 +43,8 @@ const About = () => {
             <h3>EDUCATION & AWARDS</h3>
             <h4>University of British Columbia&emsp;Vancouver, British Columbia | Sep 2019 - Apr 2023</h4>
             <p>Bachelor of Science (BSc) - Major in Computer Science, Year 4</p>
-              <p class="bullet1">Completed 3rd year with a 3.3 GPA</p>
-              <p class="bullet1">Awarded U.B.C. Science Dean’s Honour List in Year </p>
+              <p className="bullet1">Completed 3rd year with a 3.3 GPA</p>
+              <p className="bullet1">Awarded U.B.C. Science Dean’s Honour List in Year </p>
 
             <h3>TECHNICAL PROJECTS</h3>
             <h4>UBC Campus Information System (Group Project) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  April 2022</h4>

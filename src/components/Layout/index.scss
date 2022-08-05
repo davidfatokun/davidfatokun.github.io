@@ -1,14 +1,21 @@
 .App {
   width: 100%;
   height: 100%;
+  min-height: 600px;
+  min-width: 1400px;
   position: absolute;
   overflow: auto;
 }
 
 .page {
-  width: 100%;
+  left: 5%;
+  min-left: 55px;
+  width: 95%;
   height: 100%;
+  //min-width: 1200px;
+  //min-height: 400px;
   position: absolute;
+  //overflow: auto;
 }
 
 .container {

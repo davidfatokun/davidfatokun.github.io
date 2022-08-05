@@ -9,11 +9,5 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: #0757f3;
-  overflow: hidden;
   display: block;
-}
-
-.dashboard {
-  margin-top: 200px;
-  margin-left: 200px;
 }

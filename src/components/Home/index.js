@@ -28,25 +28,11 @@ const Home = () => {
     'e',
     'n',
     'c',
-    'e',
-    ' ',
-    ' ',
-    ' ',
-    ' ',
-    ' ',
-    ' ',
-    ' ',
-    ' ',
-    ' ',
-    ' ',
-    ' ',
-    ' ',
-    ' ',
-    ' ',
-    ' ',
-    ' ',
-    ' ',
-    ' ',
+    'e'
+  ]
+
+
+  const jobArray2 = [
     'S',
     't',
     'u',
@@ -83,6 +69,12 @@ const Home = () => {
               letterClass={letterClass}
               strArray={jobArray1}
               idx={22}
+            />
+            <br />
+            <AnimatedLetters
+                letterClass={letterClass}
+                strArray={jobArray2}
+                idx={22}
             />
           </h1>
           <Link to="/about" className="flat-button">

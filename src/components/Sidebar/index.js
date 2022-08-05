@@ -42,7 +42,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://github.com/"
+            href="https://github.com/davidfatokun"
             target="_blank"
             rel="noreferrer"
           >

@@ -3,7 +3,7 @@ div.paragraph {
   border: 0;
   background: #0757f3;
   height: 400px;
-  width: 650px;
+  width: 135%;
   font-size: 16px;
   color: #fff;
   padding: 0px;
@@ -65,12 +65,14 @@ p.bullet2 {
 
 
 .stage-cube-cont {
-  width: 50%;
-  height: 100%;
-  top: 0;
+  width: 40%;
+  height: 50%;
+  top: 5%;
   padding-top: 18%;
+  padding-left: 5%;
   margin-left: 0;
   position: absolute;
+  left: 55%;
   right: 0;
   overflow: hidden;
 }

@@ -13,12 +13,8 @@
     img {
       display: block;
       margin: 8px auto;
-      width: 24px;
+      width: 50%;
       height: auto;
-
-      &.sub-logo {
-        width: 50px;
-      }
     }
   }
 
@@ -37,6 +33,8 @@
       display: block;
       line-height: 51px;
       height: 51px;
+      width: 100%;
+      //align-content: center;
       position: relative;
       text-decoration: none;
 

@@ -33,18 +33,22 @@ const About = () => {
           <div className="paragraph">
 
             <p>
-            I'm a fourth year student at the University of British Columbia, where I am majoring in Computer Science,
-            enrolled in the Co-op program, currently looking for work. I know myself to be a hardworking individual and
-            an enthusiastic learner. I feel very strongly about utilizing every experience as an opportunity to get
-            better and improve in various aspects of my life. I am also interested in learning and exploring new areas
-            of Computer Science.
+              I'm a fourth year student at the University of British Columbia, where I am majoring in Computer Science,
+              currently looking for work. I know myself to be a hardworking individual and an enthusiastic learner. I
+              feel very strongly about utilizing every experience as an opportunity to grow, get better as a person and
+              improve in various aspects of my life. I'm primarily interested in web and app development, but I'm also
+              open to working in other areas of Computer Science, like Dev Ops, Artificial Intelligence, Machine Learning
+              and Cyber Security. I'm most comfortable working with technologies like: Java, SQL, HTML, CSS, Typescript,
+              JavaScript, React, C++ and Github. On my spare time, I'm typically getting active with a sport, game or
+              workout activity with family and friends. Outside of computer science, I also take interest in astronomy
+              and economics of technological change.
             </p>
 
             <h3>EDUCATION & AWARDS</h3>
             <h4>University of British Columbia&emsp;Vancouver, British Columbia | Sep 2019 - Apr 2023</h4>
             <p>Bachelor of Science (BSc) - Major in Computer Science, Year 4</p>
-              <p className="bullet1">Completed 3rd year with a 3.3 GPA</p>
-              <p className="bullet1">Awarded U.B.C. Science Dean’s Honour List in Year </p>
+              <p className="bullet1">At a 3.3 GPA after 3.5 school sessions</p>
+              <p className="bullet1">Awarded U.B.C. Science Dean’s Honour List </p>
 
             <h3>TECHNICAL PROJECTS</h3>
             <h4>UBC Campus Information System (Group Project) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  April 2022</h4>
@@ -83,12 +87,12 @@ const About = () => {
 
 
             <h3>TECHNICAL SKILLS</h3>
-              <p className="bullet1">Comfortable using Java with Spring MVC Framework, Typescript, JavaScript, SQL, C++, Docker, HTML, CSS, Rest API, Github</p>
+              <p className="bullet1">Comfortable using Java with Spring MVC Framework, Typescript, JavaScript, SQL, C++, HTML, CSS, Rest API, Github, React</p>
 
 
             <h3>INTERESTS</h3>
               <p className="bullet1">Sports games, e-games and social events with family & friends</p>
-              <p className="bullet1">Software development, algorithm design, astronomy/astrophysics, philosophy</p>
+              <p className="bullet1">Software development, algorithm design, economics of technological change, astronomy</p>
 
           </div>
         </div>

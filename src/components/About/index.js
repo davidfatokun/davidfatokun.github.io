@@ -77,7 +77,7 @@ const About = () => {
               </p>
 
             <h3>WORK EXPERIENCE</h3>
-            <h4>The Rec Room &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;  Vancouver, British Columbia |  Mar 2022 - Present</h4>
+            <h4>The Rec Room &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;  Vancouver, British Columbia |  Mar 2022 - Sep 2022</h4>
               <p className="bullet1">Line Cook for Fry, Grill, Salad and Shed Stations</p>
             <h4>Dairy Queen Canada	&emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; Calgary, Alberta |  Sep 2018 - Aug 2019</h4>
               <p className="bullet1">Responded to customer orders/needs at store counter and drive through</p>
